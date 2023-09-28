@@ -16,6 +16,7 @@ public class vistasGeneral extends javax.swing.JFrame {
      */
     public vistasGeneral() {
         initComponents();
+       
     }
 
     /**
